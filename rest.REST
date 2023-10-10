@@ -1,0 +1,14 @@
+POST http://localhost:3000/property
+Content-Type: application/json
+
+{
+    "location": "1371 Peach Street"
+}
+
+###
+
+GET http://localhost:3000/property/66OTykaKax3hRKLF3QNe
+
+###
+
+GET http://localhost:3000/property
