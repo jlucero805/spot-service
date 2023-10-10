@@ -4,6 +4,7 @@
 
 # firebase token
 firebase_token.json
+./firebase_token.json
 
 # Logs
 logs
