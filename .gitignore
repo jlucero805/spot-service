@@ -2,6 +2,9 @@
 /dist
 /node_modules
 
+# firebase token
+firebase_token.json
+
 # Logs
 logs
 *.log
